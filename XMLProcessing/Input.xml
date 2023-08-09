@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PurchaseOrder>
+
+	<PurchaseOrderNumber> 99503 </PurchaseOrderNumber>
+	<OrderDate> 2023-05-21 </OrderDate>
+	<ShipDate>1999-05-21</ShipDate>
+	<RequestedShipDate> 2023-05-21 </RequestedShipDate>
+	<ID> 2023-05-21 </ID>
+	<CreatedBy> 2023-05-21 </CreatedBy>
+	<CustomerInfo>
+		<Billing>
+			<Address1>Addresss</Address1>
+			<Name>Tai Yee</Name>
+			<Street>8 Oak Avenue</Street>
+			<City>Old Town</City>
+			<State>PA</State>
+			<Zip>95819</Zip>
+			<Country>USA</Country>
+			<Phone>17144225204</Phone>
+			<DeliveryReceiptEmail>taiyee@gmail.com </DeliveryReceiptEmail>
+		</Billing>
+		<Shipping>
+			<Address1>Addresss</Address1>
+			<Name>Tom Yee</Name>
+			<Street>8 Oak Avenue</Street>
+			<City>Old Town</City>
+			<State>PA</State>
+			<Zip>95819</Zip>
+			<Country>USA</Country>
+			<Phone>17144225204</Phone>
+			<DeliveryReceiptEmail>tomyee@gmail.com</DeliveryReceiptEmail>
+		</Shipping>
+	</CustomerInfo>
+	<DeliveryNotes>Please leave packages in shed by driveway.</DeliveryNotes>
+	<Items>
+		<Item PartNumber="872-AA">
+			<ProductName>Lawnmower</ProductName>
+			<Order_Quantity>1</Order_Quantity>
+			<USPrice>148.95</USPrice>
+			<LOADFACTOR>14</LOADFACTOR>
+			<LeadTime>30</LeadTime>
+		</Item>
+		<Item PartNumber="926-AA">
+			<ProductName>Baby Monitor</ProductName>
+			<Order_Quantity>2</Order_Quantity>
+			<USPrice>39.98</USPrice>
+			<LOADFACTOR>14</LOADFACTOR>
+			<LeadTime>50</LeadTime>
+		</Item>
+		<Item PartNumber="872-AA">
+			<ProductName>Lawnmower</ProductName>
+			<Order_Quantity>1</Order_Quantity>
+			<USPrice>148.95</USPrice>
+			<LOADFACTOR>14</LOADFACTOR>
+			<LeadTime>70</LeadTime>
+		</Item>
+		<Item PartNumber="926-AA">
+			<ProductName>Baby Monitor</ProductName>
+			<Order_Quantity>2</Order_Quantity>
+			<USPrice>39.98</USPrice>
+			<LOADFACTOR>14</LOADFACTOR>
+			<LeadTime>90</LeadTime>
+		</Item>
+	</Items>
+</PurchaseOrder>
+

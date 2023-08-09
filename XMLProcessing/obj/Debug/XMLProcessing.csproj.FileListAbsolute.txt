@@ -1,0 +1,8 @@
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.exe.config
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.exe
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\bin\Debug\XMLProcessing.pdb
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.exe
+C:\Users\Supraja Konchada\source\repos\XMLProcessing\XMLProcessing\obj\Debug\XMLProcessing.pdb
